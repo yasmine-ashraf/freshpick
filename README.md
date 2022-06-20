@@ -1,6 +1,6 @@
 # freshpick
 FreshPick is a grocery shopping application created on XCode using Swift 5.
-This project was created by me, Yasmine Ashraf, as a deeper dive into learning about Swift, Storyboards, SDKs, Firebase and more.
+This project was created by me, Yasmine Ashraf, as a deeper dive into learning about Swift, Onboarding, Storyboards, SDKs, Firebase and more.
 
 # Features
 -Sign up/Log in
