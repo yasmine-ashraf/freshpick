@@ -20,9 +20,10 @@ This project was created as a deeper dive into learning about Swift, Onboarding,
 
 ## Screenshots
 
-<img width="350" alt="Simulator Screen Shot - iPhone 12 Pro - 2021-09-13 at 21 00 00" src="https://github.com/yasmine-ashraf/freshpick/assets/106534619/71c866f5-568c-4d13-aa92-bc6232b02553">
-<img width="350" alt="Simulator Screen Shot - iPhone 12 Pro - 2021-09-13 at 21 08 48" src="https://github.com/yasmine-ashraf/freshpick/assets/106534619/9bec0d2a-cc14-470e-9a2b-85f21d32d695">
-<img width="350" alt="Simulator Screen Shot - iPhone 12 Pro - 2021-09-13 at 21 05 23" src="https://github.com/yasmine-ashraf/freshpick/assets/106534619/d6477c18-47ba-4cf4-af7d-e4eb86462a9b">
+<img width="310" alt="Simulator Screen Shot - iPhone 12 Pro - 2021-09-13 at 21 00 00" src="https://github.com/yasmine-ashraf/freshpick/assets/106534619/71c866f5-568c-4d13-aa92-bc6232b02553">
+<img width="310" alt="Simulator Screen Shot - iPhone 12 Pro - 2021-09-13 at 21 08 48" src="https://github.com/yasmine-ashraf/freshpick/assets/106534619/9bec0d2a-cc14-470e-9a2b-85f21d32d695">
+<img width="310" alt="Simulator Screen Shot - iPhone 12 Pro - 2021-09-13 at 21 05 23" src="https://github.com/yasmine-ashraf/freshpick/assets/106534619/d6477c18-47ba-4cf4-af7d-e4eb86462a9b">
+
 <img width="1000" alt="Screen Shot 2021-09-13 at 8 56 51 PM" src="https://github.com/yasmine-ashraf/freshpick/assets/106534619/63e55047-0d9d-4c68-80ef-2332454ac556">
 
 
@@ -31,8 +32,8 @@ This project was created as a deeper dive into learning about Swift, Onboarding,
 
 Contributions are always welcome!
 
-Please adhere to this project's `code of conduct`.
+Please adhere to the `code of conduct`.
 
 ## Support🛠 
 
-For support, email yasminealabyad@gmail.com 
+For support, kindly email yasminealabyad@gmail.com 
