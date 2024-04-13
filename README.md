@@ -13,5 +13,7 @@ This project was created by me, Yasmine Ashraf, as a deeper dive into learning a
 -View Cart and Total
 -Checkout
 
+![Simulator Screen Shot - iPhone 12 Pro - 2021-09-13 at 21 00 00](https://github.com/yasmine-ashraf/freshpick/assets/106534619/71c866f5-568c-4d13-aa92-bc6232b02553)
+
 *User Authentication through Firebase
 *Items and Carts stored on Firebase Database
