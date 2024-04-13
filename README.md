@@ -18,7 +18,7 @@ This project was created as a deeper dive into learning about Swift, Onboarding,
     - User Authentication through Firebase
     - Items and Carts stored on Firebase Database
 
-## Screenshots
+## Screenshots📱
 
 <img width="260" alt="Simulator Screen Shot - iPhone 12 Pro - 2021-09-13 at 21 00 00" src="https://github.com/yasmine-ashraf/freshpick/assets/106534619/71c866f5-568c-4d13-aa92-bc6232b02553">
 <img width="260" alt="Simulator Screen Shot - iPhone 12 Pro - 2021-09-13 at 21 08 48" src="https://github.com/yasmine-ashraf/freshpick/assets/106534619/9bec0d2a-cc14-470e-9a2b-85f21d32d695">
