@@ -1,5 +1,5 @@
 # freshpick
-FreshPick is a grocery shopping application created on XCode using Swift 5.
+FreshPick is a grocery shopping iOS mobile application created on XCode using Swift 5.
 
 ## Motivation💪
 This project was created as a deeper dive into learning about Swift, Onboarding, Storyboards, SDKs, Firebase and more.
@@ -14,14 +14,15 @@ This project was created as a deeper dive into learning about Swift, Onboarding,
 - Low in stock display
 - View Cart and Total
 - Checkout
-* User Authentication through Firebase
-* Items and Carts stored on Firebase Database
+- Firebase: 
+    - User Authentication through Firebase
+    - Items and Carts stored on Firebase Database
 
 ## Screenshots
 
-<img width="700" alt="Simulator Screen Shot - iPhone 12 Pro - 2021-09-13 at 21 00 00" src="https://github.com/yasmine-ashraf/freshpick/assets/106534619/71c866f5-568c-4d13-aa92-bc6232b02553">
-
-
+<img width="300" alt="Simulator Screen Shot - iPhone 12 Pro - 2021-09-13 at 21 00 00" src="https://github.com/yasmine-ashraf/freshpick/assets/106534619/71c866f5-568c-4d13-aa92-bc6232b02553">
+<img width="300" alt="Simulator Screen Shot - iPhone 12 Pro - 2021-09-13 at 21 08 48" src="https://github.com/yasmine-ashraf/freshpick/assets/106534619/9bec0d2a-cc14-470e-9a2b-85f21d32d695">
+<img width="300" alt="Simulator Screen Shot - iPhone 12 Pro - 2021-09-13 at 21 05 23" src="https://github.com/yasmine-ashraf/freshpick/assets/106534619/d6477c18-47ba-4cf4-af7d-e4eb86462a9b">
 
 ## Contributing🤝
 
