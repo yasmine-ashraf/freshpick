@@ -1,10 +1,10 @@
-# freshpick
-FreshPick is a grocery shopping iOS mobile application created on XCode using Swift 5.
+# Fresh Pick  ![swift-icon](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+Fresh Pick is a grocery shopping iOS mobile application created on XCode using Swift 5
 
 ## Motivation💪
 This project was created as a deeper dive into learning about Swift, Onboarding, Storyboards, SDKs, Firebase and more.
 
-## Features
+## Features🌟
 - Sign up/Log in
 - Browse Categories
 - Browse Daily Picks
@@ -25,8 +25,6 @@ This project was created as a deeper dive into learning about Swift, Onboarding,
 <img width="310" alt="Simulator Screen Shot - iPhone 12 Pro - 2021-09-13 at 21 05 23" src="https://github.com/yasmine-ashraf/freshpick/assets/106534619/d6477c18-47ba-4cf4-af7d-e4eb86462a9b">
 
 <img width="1000" alt="Screen Shot 2021-09-13 at 8 56 51 PM" src="https://github.com/yasmine-ashraf/freshpick/assets/106534619/63e55047-0d9d-4c68-80ef-2332454ac556">
-
-
 
 ## Contributing🤝
 
